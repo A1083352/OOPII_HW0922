@@ -1,4 +1,3 @@
-# OOPII_HW0922_1
 import java.util.*;
 public class OOPII_HW0922_1 {
     public static void main(String[] args) {
